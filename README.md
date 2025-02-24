@@ -14,9 +14,6 @@ Este es un proyecto interactivo con el usuario, el cual indicará un amigo secre
 - JavaScript
 - HTML
 - CSS
-  
-## Enlace al proyecto: 
-file:///C:/Users/52561/Downloads/challenge-amigo-secreto_esp-main/challenge-amigo-secreto_esp-main/index.html
 
 ## Instrucciones para usar el proyecto
 1. Escribe el nombre de 2 o más amigos (da clic en el botón de "añadir").
